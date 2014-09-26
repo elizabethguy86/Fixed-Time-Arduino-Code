@@ -3,6 +3,8 @@
   pellet dispenser and house light control program
   created 2014
   by Elizabeth G Guy 9/22/2014
+  
+  Edited by Glenn Morton 9/23/2014
 
   The circuit: (notice that all pins are organized by groups where inputs are first and outputs are last.)
    
